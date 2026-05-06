@@ -1,12 +1,10 @@
-
-fastapi/.idea/.gitignore
-fastapi/.idea/fastapi.iml
-fastapi/.idea/inspectionProfiles/profiles_settings.xml
-fastapi/.idea/misc.xml
-fastapi/.idea/modules.xml
-fastapi/.idea/vcs.xml
-fastapi/fastapienv/bin/*
-fastapi/fastapienv/books.py
+.DS_Store
+fastapi/.DS_Store
+fastapi/.idea/
+fastapienv/
+fastapi/fastapienv/.DS_Store
+fastapi/fastapienv/bin/
+!fastapienv/pyvenv.cfg
 
 
 

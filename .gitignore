@@ -1,3 +1,17 @@
+
+fastapi/.idea/.gitignore
+fastapi/.idea/fastapi.iml
+fastapi/.idea/inspectionProfiles/profiles_settings.xml
+fastapi/.idea/misc.xml
+fastapi/.idea/modules.xml
+fastapi/.idea/vcs.xml
+fastapi/fastapienv/bin/*
+fastapi/fastapienv/books.py
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
